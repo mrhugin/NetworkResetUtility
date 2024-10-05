@@ -44,4 +44,4 @@
 
 ## We Appreciate Your Contributions
 
-Your feedback and suggestions play a vital role in enhancing this project for everyone `Thank you for your valuable support` and contributions !
+Your feedback and suggestions play a vital role in enhancing this project for everyone Thank you for your valuable support and contributions !

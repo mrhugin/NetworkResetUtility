@@ -22,9 +22,9 @@
 
 3- `Follow Prompts:` The script will display messages indicating the progress of each command once all commands have been executed a message will confirm successful completion.
 
-4- `Test Your Connection:` After running the script check your internet connection to see if the issues are resolved or not
+4- `Close the Window:` Once you see the completion message press Enter to close the command window.
 
- 5- `Close the Window:` Once you see the completion message press Enter to close the command window.
+ 5- `Test Your Connection:` After running the script check your internet connection to see if the issues are resolved or not.
 
 ## Notes
 

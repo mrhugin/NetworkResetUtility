@@ -24,6 +24,8 @@
 
 4- `Test Your Connection:` After running the script check your internet connection to see if the issues are resolved or not
 
+ 5- `Close the Window:` Once you see the completion message press Enter to close the command window.
+
 ## Notes
 
 ● This script is intended for use on `Windows` operating systems.

@@ -10,7 +10,7 @@
 
 ● `Resets IP Configuration:` Restores the default `IP` configuration which can help in resolving `IP-related` issues.
 
-● `Releases and Renews IP Address:` Obtains a new `IP` address from the DHCP server useful if there are conflicts or issues with the current `IP` address.
+● `Releases and Renews IP Address:` Obtains a new `IP` address from the `DHCP` server useful if there are conflicts or issues with the current `IP` address.
 
 ● `Flushes DNS Cache:` Clears the `DNS` resolver cache which can resolve issues related to outdated or incorrect `DNS` entries.
 

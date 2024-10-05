@@ -2,9 +2,7 @@
 
 ## Description
 
-● This batch script is designed to help diagnose and fix common internet connection issues on `Windows` machines It 
-
-automates a series of network commands that can reset various network settings and configurations potentially resolving connectivity problems.
+● This batch script is designed to help diagnose and fix common internet connection issues on `Windows` machines It  automates a series of network commands that can reset various network settings and configurations potentially resolving connectivity problems.
 
 ## Features
 

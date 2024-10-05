@@ -34,9 +34,7 @@
 
 ● This script may not fix all internet connectivity issues further troubleshooting may be necessary depending on the situation.
 
-# We Welcome Your Contributions
-
- We encourage you to contribute to this repository Please feel free to submit:
+ # We encourage you to contribute to this repository Please feel free to submit
  
 ● `Issues:` Report any bugs or problems you encounter.
 
@@ -44,4 +42,6 @@
 
 ● `Improvements:` Propose changes or optimizations to existing code.
 
- Your input helps us make this project better for everyone Thank you for your contributions !
+## We Appreciate Your Contributions
+
+Your feedback and suggestions play a vital role in enhancing this project for everyone `Thank you for your valuable support` and contributions !
